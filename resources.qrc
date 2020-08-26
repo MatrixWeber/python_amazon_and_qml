@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>qml/qt_test.qml</file>
+    <file>qml/CellBox.qml</file>
+</qresource>
+</RCC>
